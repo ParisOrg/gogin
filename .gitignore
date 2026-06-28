@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.wrangler/
+.dev.vars
+.env
+.DS_Store
+worker-configuration.d.ts
+vite-env.d.ts
